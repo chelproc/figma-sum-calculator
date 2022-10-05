@@ -1,16 +1,15 @@
 {
-  "name": "sum-calculator",
+  "name": "figma-sum-calculator",
   "version": "1.0.0",
-  "description": "Your Figma Plugin",
+  "description": "Calculate the sum of all the numeric strings in the selection",
   "main": "code.js",
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "watch": "npm run build -- --watch"
   },
-  "author": "",
-  "license": "",
+  "license": "MIT",
   "devDependencies": {
-    "@figma/plugin-typings": "*",
-    "typescript": "*"
+    "@figma/plugin-typings": "^1.52.0",
+    "typescript": "^4.8.4"
   }
 }

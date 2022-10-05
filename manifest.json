@@ -1,11 +1,8 @@
 {
-  "name": "sum-calculator",
-  "id": "1159419989206248115",
+  "name": "Sum Calculator",
+  "id": "1159437719118974671",
   "api": "1.0.0",
   "main": "code.js",
-  "editorType": [
-    "figma",
-    "figjam"
-  ],
+  "editorType": ["figma", "figjam"],
   "ui": "ui.html"
 }
